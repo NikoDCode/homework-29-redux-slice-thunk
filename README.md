@@ -25,3 +25,5 @@
    ```
 
 ## Демо
+
+https://homework-29-redux-slice-thunk.vercel.app/
